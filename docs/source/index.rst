@@ -20,4 +20,7 @@ Contents
 
    usage
    api
+   section_1
+section_2
+
 
